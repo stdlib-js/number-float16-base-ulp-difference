@@ -50,6 +50,7 @@
     "@stdlib/constants-float16-ninf": "^0.2.2",
     "@stdlib/constants-float16-pinf": "^0.2.2",
     "@stdlib/constants-float16-smallest-subnormal": "^0.2.2",
+    "@stdlib/number-float16-base-assert-is-nan": "github:stdlib-js/number-float16-base-assert-is-nan#main",
     "@stdlib/number-float64-base-to-float16": "github:stdlib-js/number-float64-base-to-float16#main",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/utils-nary-function": "^0.2.2",
